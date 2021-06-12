@@ -2,8 +2,8 @@
 
 ## Description
 
-It uses an API to fetch a joke and renders it onto the screen.
-API used is https://official-joke-api.appspot.com/random_joke
+It uses an API to fetch a joke and renders it onto the screen.\
+API used is https://official-joke-api.appspot.com/random_joke\
 It includes a new joke button which will change the state of the joke and the punchline and then renders it onto the screen.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
